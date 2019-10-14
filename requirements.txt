@@ -1,4 +1,4 @@
 # ===================================================================
 # solstice deployment requirements file
 # ===================================================================
-artellapipe-tools-welcome==0.0.4
+artellapipe-tools-welcome==0.0.5
