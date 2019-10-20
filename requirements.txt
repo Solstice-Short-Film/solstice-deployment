@@ -3,7 +3,7 @@
 # ===================================================================
 solstice-config==0.0.4
 solstice==0.0.9
-solstice-launcher==0.0.2
+solstice-launcher==0.0.5
 artellapipe==0.0.15
-artellapipe-launcher==0.0.2
+artellapipe-launcher==0.0.6
 artellapipe-tools-welcome==0.0.5
