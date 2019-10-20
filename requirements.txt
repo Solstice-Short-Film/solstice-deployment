@@ -1,7 +1,7 @@
 # ===================================================================
 # solstice deployment requirements file
 # ===================================================================
-solstice-config==0.0.3
+solstice-config==0.0.4
 solstice==0.0.9
 solstice-launcher==0.0.2
 artellapipe==0.0.15
