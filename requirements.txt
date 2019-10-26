@@ -5,7 +5,7 @@ artellapipe==0.0.17
 artellapipe-config==0.0.7
 artellapipe-libs-maya==0.0.1
 artellapipe-launcher==0.0.8
-artellapipe-launcher-plugins-dccselector==0.0.1
+artellapipe-launcher-plugins-dccselector==0.0.2
 artellapipe-tools-welcome==0.0.5
 solstice-config==0.0.5
 solstice-bootstrap==0.0.1
