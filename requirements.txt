@@ -1,9 +1,12 @@
 # ===================================================================
 # solstice deployment requirements file
 # ===================================================================
-solstice-config==0.0.4
-solstice==0.0.9
-solstice-launcher==0.0.7
-artellapipe==0.0.15
-artellapipe-launcher==0.0.7
+artellapipe==0.0.17
+artellapipe-config==0.0.7
+artellapipe-libs-maya==0.0.1
+artellapipe-launcher==0.0.8
+artellapipe-launcher-plugins-dccselector==0.0.1
 artellapipe-tools-welcome==0.0.5
+solstice-config==0.0.5
+solstice-bootstrap==0.0.1
+solstice==0.0.10
