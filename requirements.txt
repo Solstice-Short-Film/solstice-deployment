@@ -19,4 +19,4 @@ artellapipe-tools-assetsmanager==0.0.2
 artellapipe-tools-namemanager==0.0.1
 solstice-config==0.0.7
 solstice-bootstrap==0.0.1
-solstice==0.0.11
+solstice==0.0.12
