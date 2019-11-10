@@ -7,7 +7,7 @@ artellapipe-libs-drive==0.0.1
 artellapipe-config==0.0.8
 artellapipe==0.0.18
 artellapipe-dccs-maya==0.0.1
-artellapipe-launcher==0.0.12
+artellapipe-launcher==0.0.13
 artellapipe-launcher-plugins-dccselector==0.0.4
 artellapipe-tools-welcome==0.0.7
 artellapipe-tools-changelog==0.0.2
