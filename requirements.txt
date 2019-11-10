@@ -11,11 +11,12 @@ artellapipe-launcher==0.0.12
 artellapipe-launcher-plugins-dccselector==0.0.4
 artellapipe-tools-welcome==0.0.7
 artellapipe-tools-changelog==0.0.2
-artellapipe-tools-bugtracker==0.0.2
-artellapipe-tools-artellamanager==0.0.1
-artellapipe-tools-artellauploader==0.0.1
+artellapipe-tools-bugtracker==0.0.3
+artellapipe-tools-artellamanager==0.0.2
+artellapipe-tools-artellauploader==0.0.2
 artellapipe-tools-assetslibrary==0.0.1
-artellapipe-tools-assetsmanager==0.0.1
+artellapipe-tools-assetsmanager==0.0.2
+artellapipe-tools-namemanager==0.0.1
 solstice-config==0.0.7
 solstice-bootstrap==0.0.1
 solstice==0.0.11
