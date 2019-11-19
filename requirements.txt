@@ -2,7 +2,7 @@
 # solstice deployment requirements file
 # ===================================================================
 artellapipe-libs-naming==0.0.1
-artellapipe-libs-artella==0.0.1
+artellapipe-libs-artella==0.0.2
 artellapipe-libs-drive==0.0.1
 artellapipe-config==0.0.10
 artellapipe==0.0.20
