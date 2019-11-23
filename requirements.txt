@@ -6,6 +6,7 @@ tpDccLib==0.0.9
 tpMayaLib==0.0.9
 tpHoudiniLib==0.0.2
 tpQtLib==0.0.17
+tpNameIt==0.0.7
 artellapipe-libs-naming==0.0.1
 artellapipe-libs-artella==0.0.3
 artellapipe-libs-drive==0.0.1
@@ -23,7 +24,7 @@ artellapipe-tools-artellauploader==0.0.3
 artellapipe-tools-assetslibrary==0.0.2
 artellapipe-tools-assetsmanager==0.0.3
 artellapipe-tools-namemanager==0.0.2
-artellapipe-tools-lightrigsmanager==0.0.1
+artellapipe-tools-lightrigsmanager==0.0.2
 artellapipe-tools-tagger==0.0.2
 artellapipe-tools-shadersmanager==0.0.2
 solstice-config==0.0.11
