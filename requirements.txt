@@ -22,4 +22,4 @@ artellapipe-tools-tagger==0.0.1
 artellapipe-tools-shadersmanager==0.0.1
 solstice-config==0.0.10
 solstice-bootstrap==0.0.2
-solstice==0.0.16
+solstice==0.0.17
