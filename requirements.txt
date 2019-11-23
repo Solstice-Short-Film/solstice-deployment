@@ -10,7 +10,7 @@ tpNameIt==0.0.7
 artellapipe-libs-naming==0.0.1
 artellapipe-libs-artella==0.0.3
 artellapipe-libs-drive==0.0.1
-artellapipe-config==0.0.13
+artellapipe-config==0.0.14
 artellapipe==0.0.25
 artellapipe-dccs-maya==0.0.4
 artellapipe-dccs-houdini==0.0.3
@@ -28,6 +28,6 @@ artellapipe-tools-lightrigsmanager==0.0.2
 artellapipe-tools-playblastmanager==0.0.1
 artellapipe-tools-tagger==0.0.2
 artellapipe-tools-shadersmanager==0.0.2
-solstice-config==0.0.12
+solstice-config==0.0.13
 solstice-bootstrap==0.0.2
 solstice==0.0.19
