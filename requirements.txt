@@ -2,13 +2,13 @@
 # solstice deployment requirements file
 # ===================================================================
 artellapipe-libs-naming==0.0.1
-artellapipe-libs-artella==0.0.2
+artellapipe-libs-artella==0.0.3
 artellapipe-libs-drive==0.0.1
 artellapipe-config==0.0.12
-artellapipe==0.0.22
+artellapipe==0.0.23
 artellapipe-dccs-maya==0.0.3
 artellapipe-dccs-houdini==0.0.3
-artellapipe-launcher==0.0.13
+artellapipe-launcher==0.0.14
 artellapipe-launcher-plugins-dccselector==0.0.6
 artellapipe-tools-welcome==0.0.8
 artellapipe-tools-changelog==0.0.3
@@ -22,4 +22,4 @@ artellapipe-tools-tagger==0.0.1
 artellapipe-tools-shadersmanager==0.0.1
 solstice-config==0.0.10
 solstice-bootstrap==0.0.2
-solstice==0.0.15
+solstice==0.0.16
