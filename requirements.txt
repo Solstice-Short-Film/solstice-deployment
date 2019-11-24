@@ -10,9 +10,9 @@ tpNameIt==0.0.7
 artellapipe-libs-naming==0.0.1
 artellapipe-libs-artella==0.0.3
 artellapipe-libs-drive==0.0.1
-artellapipe-config==0.0.15
-artellapipe==0.0.26
-artellapipe-dccs-maya==0.0.5
+artellapipe-config==0.0.16
+artellapipe==0.0.27
+artellapipe-dccs-maya==0.0.6
 artellapipe-dccs-houdini==0.0.3
 artellapipe-launcher==0.0.14
 artellapipe-launcher-plugins-dccselector==0.0.6
