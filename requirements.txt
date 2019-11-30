@@ -24,8 +24,8 @@ artellapipe-tools-changelog==0.0.3
 artellapipe-tools-bugtracker==0.0.4
 artellapipe-tools-artellamanager==0.0.4
 artellapipe-tools-artellauploader==0.0.3
-artellapipe-tools-assetslibrary==0.0.2
-artellapipe-tools-assetsmanager==0.0.3
+artellapipe-tools-assetslibrary==0.0.3
+artellapipe-tools-assetsmanager==0.0.4
 artellapipe-tools-namemanager==0.0.2
 artellapipe-tools-lightrigsmanager==0.0.4
 artellapipe-tools-playblastmanager==0.0.3
