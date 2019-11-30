@@ -3,7 +3,7 @@
 # ===================================================================
 tpPyUtils==0.0.20
 tpDccLib==0.0.9
-tpMayaLib==0.0.9
+tpMayaLib==0.0.10
 tpHoudiniLib==0.0.2
 tpQtLib==0.0.19
 tpNameIt==0.0.9
