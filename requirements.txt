@@ -7,6 +7,7 @@ tpMayaLib==0.0.9
 tpHoudiniLib==0.0.2
 tpQtLib==0.0.19
 tpNameIt==0.0.9
+artellapipe-libs-alembic==0.0.1
 artellapipe-libs-naming==0.0.1
 artellapipe-libs-artella==0.0.3
 artellapipe-libs-drive==0.0.1
