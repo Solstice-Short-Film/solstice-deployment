@@ -11,7 +11,7 @@ artellapipe-libs-naming==0.0.1
 artellapipe-libs-artella==0.0.3
 artellapipe-libs-drive==0.0.1
 artellapipe-libs-pyblish==0.0.1
-artellapipe-libs-kitsu 0.0.2
+artellapipe-libs-kitsu==0.0.2
 artellapipe-config==0.0.18
 artellapipe==0.0.29
 artellapipe-dccs-maya==0.0.7
