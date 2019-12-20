@@ -9,7 +9,7 @@ tpQtLib==0.0.20
 tpNameIt==0.0.10
 artellapipe-libs-alembic==0.0.1
 artellapipe-libs-naming==0.0.1
-artellapipe-libs-artella==0.0.3
+artellapipe-libs-artella==0.0.4
 artellapipe-libs-drive==0.0.1
 artellapipe-libs-pyblish==0.0.1
 artellapipe-libs-kitsu==0.0.2
