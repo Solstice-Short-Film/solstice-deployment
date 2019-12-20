@@ -1,22 +1,22 @@
 # ===================================================================
 # solstice deployment requirements file
 # ===================================================================
-tpPyUtils==0.0.20
-tpDccLib==0.0.9
-tpMayaLib==0.0.10
-tpHoudiniLib==0.0.2
-tpQtLib==0.0.19
-tpNameIt==0.0.9
+tpPyUtils==0.0.21
+tpDccLib==0.0.11
+tpMayaLib==0.0.12
+tpHoudiniLib==0.0.3
+tpQtLib==0.0.20
+tpNameIt==0.0.10
 artellapipe-libs-alembic==0.0.1
 artellapipe-libs-naming==0.0.1
 artellapipe-libs-artella==0.0.3
 artellapipe-libs-drive==0.0.1
 artellapipe-libs-pyblish==0.0.1
 artellapipe-libs-kitsu==0.0.2
-artellapipe-config==0.0.18
-artellapipe==0.0.29
-artellapipe-dccs-maya==0.0.7
-artellapipe-dccs-houdini==0.0.3
+artellapipe-config==0.0.19
+artellapipe==0.0.32
+artellapipe-dccs-maya==0.0.9
+artellapipe-dccs-houdini==0.0.5
 artellapipe-launcher==0.0.14
 artellapipe-launcher-plugins-dccselector==0.0.6
 artellapipe-launcher-plugins-artellamanager==0.0.7
@@ -25,7 +25,7 @@ artellapipe-tools-changelog==0.0.3
 artellapipe-tools-bugtracker==0.0.4
 artellapipe-tools-artellamanager==0.0.4
 artellapipe-tools-artellauploader==0.0.3
-artellapipe-tools-assetslibrary==0.0.3
+artellapipe-tools-assetslibrary==0.0.4
 artellapipe-tools-assetsmanager==0.0.4
 artellapipe-tools-namemanager==0.0.2
 artellapipe-tools-lightrigsmanager==0.0.4
@@ -33,7 +33,8 @@ artellapipe-tools-playblastmanager==0.0.3
 artellapipe-tools-tagger==0.0.2
 artellapipe-tools-shadersmanager==0.0.2
 artellapipe-tools-modelchecker==0.0.1
-solstice-config==0.0.16
+artellapipe-tools-dependenciesmanager==0.0.1
+solstice-config==0.0.17
 solstice-bootstrap==0.0.2
-solstice==0.0.21
+solstice==0.0.22
 solstice-tools-snowgenerator==0.0.1
