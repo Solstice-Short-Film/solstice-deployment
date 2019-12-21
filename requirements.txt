@@ -17,7 +17,7 @@ artellapipe-config==0.0.19
 artellapipe==0.0.32
 artellapipe-dccs-maya==0.0.9
 artellapipe-dccs-houdini==0.0.5
-artellapipe-launcher==0.0.14
+artellapipe-launcher==0.0.15
 artellapipe-launcher-plugins-dccselector==0.0.6
 artellapipe-launcher-plugins-artellamanager==0.0.7
 artellapipe-tools-welcome==0.0.8
