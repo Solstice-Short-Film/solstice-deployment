@@ -1,12 +1,12 @@
 # ===================================================================
 # solstice deployment requirements file
 # ===================================================================
-tpPyUtils==0.0.21
-tpDccLib==0.0.11
-tpMayaLib==0.0.12
-tpHoudiniLib==0.0.3
-tpQtLib==0.0.20
-tpNameIt==0.0.10
+tpPyUtils==0.0.22
+tpDccLib==0.0.15
+tpMayaLib==0.0.16
+tpHoudiniLib==0.0.4
+tpQtLib==0.0.24
+tpNameIt==0.0.13
 artellapipe-libs-alembic==0.0.1
 artellapipe-libs-naming==0.0.1
 artellapipe-libs-artella==0.0.4
