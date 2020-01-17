@@ -23,7 +23,7 @@ artellapipe-launcher-plugins-artellamanager==0.0.9
 artellapipe-tools-welcome==0.0.8
 artellapipe-tools-changelog==0.0.3
 artellapipe-tools-bugtracker==0.0.4
-artellapipe-tools-alembicmanager 0.0.2
+artellapipe-tools-alembicmanager==0.0.2
 artellapipe-tools-artellamanager==0.0.4
 artellapipe-tools-artellauploader==0.0.4
 artellapipe-tools-assetslibrary==0.0.5
