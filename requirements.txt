@@ -14,7 +14,7 @@ artellapipe-libs-drive==0.0.1
 artellapipe-libs-pyblish==0.0.1
 artellapipe-libs-kitsu==0.0.3
 artellapipe-config==0.0.20
-artellapipe==0.0.33
+artellapipe==0.0.34
 artellapipe-dccs-maya==0.0.11
 artellapipe-dccs-houdini==0.0.6
 artellapipe-launcher==0.0.15
