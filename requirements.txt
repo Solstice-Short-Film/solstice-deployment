@@ -41,6 +41,6 @@ artellapipe-tools-dependenciesmanager==0.0.5
 solstice-config==0.0.21
 solstice-bootstrap==0.0.2
 solstice==0.0.25
-solstice-tools-snowgenerator==0.0.1
+solstice-tools-snowgenerator==0.0.2
 solstice-tools-outliner==0.0.3
 solstice-tools-xgenmanager==0.0.2
