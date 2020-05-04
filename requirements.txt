@@ -19,7 +19,6 @@ artellapipe-libs-naming==0.0.2
 artellapipe-libs-pyblish==0.0.4
 artellapipe-libs-ffmpeg==0.0.3
 artellapipe-dccs-maya==0.0.11
-artellapipe-dccs-houdini==0.0.6
 artellapipe-launcher==0.0.15
 artellapipe-launcher-plugins-dccselector==0.0.7
 artellapipe-launcher-plugins-artellamanager==0.0.9
