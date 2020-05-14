@@ -2,7 +2,7 @@
 # solstice deployment requirements file
 # ===================================================================
 tpDcc-libs-python==0.0.7
-tpDcc-core==0.0.12
+tpDcc-core==0.0.13
 tpDcc-libs-qt==0.0.13
 tpDcc-config == 0.0.5
 tpDcc-dccs-maya==0.0.10
