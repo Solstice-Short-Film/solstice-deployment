@@ -10,7 +10,7 @@ tpDcc-libs-nameit==0.0.5
 tpDcc-tools-nameit==0.0.4
 tpDcc-tools-renamer==0.0.5
 artellapipe-config==0.0.26
-artellapipe==0.0.46
+artellapipe==0.0.47
 artellapipe-libs-alembic==0.0.5
 artellapipe-libs-arnold==0.0.3
 artellapipe-libs-artella==0.0.6
