@@ -1,27 +1,27 @@
 # ===================================================================
 # solstice deployment requirements file
 # ===================================================================
-tpDcc-libs-python==0.0.7
-tpDcc-core==0.0.13
-tpDcc-libs-qt==0.0.13
+tpDcc-libs-python==0.0.8
+tpDcc-core==0.0.14
+tpDcc-libs-qt==0.0.14
 tpDcc-config == 0.0.5
 tpDcc-dccs-maya==0.0.10
 tpDcc-libs-nameit==0.0.5
 tpDcc-tools-nameit==0.0.4
 tpDcc-tools-renamer==0.0.5
 artellapipe-config==0.0.26
-artellapipe==0.0.47
+artellapipe==0.0.48
 artellapipe-libs-alembic==0.0.5
 artellapipe-libs-arnold==0.0.3
-artellapipe-libs-artella==0.0.6
+artellapipe-libs-artella==0.0.7
 artellapipe-libs-kitsu==0.0.8
 artellapipe-libs-naming==0.0.2
 artellapipe-libs-pyblish==0.0.5
 artellapipe-libs-ffmpeg==0.0.3
-artellapipe-dccs-maya==0.0.12
+artellapipe-dccs-maya==0.0.13
 artellapipe-launcher==0.0.17
 artellapipe-launcher-plugins-dccselector==0.0.9
-artellapipe-launcher-plugins-artellamanager==0.0.11
+artellapipe-launcher-plugins-artellamanager==0.0.13
 artellapipe-tools-changelog==0.0.5
 artellapipe-tools-bugtracker==0.0.7
 artellapipe-tools-alembicmanager==0.0.5
