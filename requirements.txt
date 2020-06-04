@@ -9,7 +9,7 @@ tpDcc-dccs-maya==0.0.10
 tpDcc-libs-nameit==0.0.5
 tpDcc-tools-nameit==0.0.4
 tpDcc-tools-renamer==0.0.5
-artellapipe-config==0.0.26
+artellapipe-config==0.0.27
 artellapipe==0.0.48
 artellapipe-libs-alembic==0.0.5
 artellapipe-libs-arnold==0.0.3
@@ -18,6 +18,7 @@ artellapipe-libs-kitsu==0.0.8
 artellapipe-libs-naming==0.0.2
 artellapipe-libs-pyblish==0.0.5
 artellapipe-libs-ffmpeg==0.0.3
+artellapipe-libs-picker==0.0.1
 artellapipe-dccs-maya==0.0.13
 artellapipe-launcher==0.0.17
 artellapipe-launcher-plugins-dccselector==0.0.9
@@ -37,9 +38,10 @@ artellapipe-tools-tagger==0.0.5
 artellapipe-tools-shadersmanager==0.0.5
 artellapipe-tools-modelchecker==0.0.3
 artellapipe-tools-dependenciesmanager==0.0.5
-solstice-config==0.0.22
+solstice-config==0.0.23
 solstice-bootstrap==0.0.2
 solstice==0.0.28
+solstice-libs-picker==0.0.1
 solstice-tools-snowgenerator==0.0.2
 solstice-tools-outliner==0.0.3
 solstice-tools-xgenmanager==0.0.2
