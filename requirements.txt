@@ -20,7 +20,7 @@ artellapipe-libs-pyblish==0.0.5
 artellapipe-libs-ffmpeg==0.0.3
 artellapipe-libs-picker==0.0.1
 artellapipe-dccs-maya==0.0.13
-artellapipe-launcher==0.0.18
+artellapipe-launcher==0.0.19
 artellapipe-launcher-plugins-dccselector==0.0.9
 artellapipe-launcher-plugins-artellamanager==0.0.11
 artellapipe-tools-changelog==0.0.5
