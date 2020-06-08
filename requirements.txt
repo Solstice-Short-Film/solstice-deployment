@@ -5,7 +5,7 @@ tpDcc-libs-python==0.0.8
 tpDcc-core==0.0.14
 tpDcc-libs-qt==0.0.14
 tpDcc-config == 0.0.5
-tpDcc-dccs-maya==0.0.10
+tpDcc-dccs-maya==0.0.11
 tpDcc-libs-nameit==0.0.5
 tpDcc-tools-nameit==0.0.4
 tpDcc-tools-renamer==0.0.5
